@@ -8,21 +8,19 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://a2.prepdele.com/en/" />
   </url>
   <url><loc>https://a2.prepdele.com/modelo-examen/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://a2.prepdele.com/support/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://a2.prepdele.com/privacy/</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://a2.prepdele.com/terms/</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
   <url><loc>https://a2.prepdele.com/blog/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://a2.prepdele.com/blog/que-es-dele-a2/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://a2.prepdele.com/blog/dele-a2-vs-dele-a2/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://a2.prepdele.com/blog/dele-a2-nacionalidad/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://a2.prepdele.com/blog/aprobar-dele-a2-en-2-meses/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://a2.prepdele.com/blog/dele-a2-expresion-escrita/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://a2.prepdele.com/blog/errores-comunes-dele-a2/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://a2.prepdele.com/blog/vocabulario-dele-a2/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://a2.prepdele.com/blog/dele-a2-comprension-lectora/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://a2.prepdele.com/blog/dele-a2-comprension-auditiva/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://a2.prepdele.com/en/</loc><changefreq>weekly</changefreq><priority>0.95</priority></url>
-  <url><loc>https://a2.prepdele.com/en/sample-exam/</loc><changefreq>monthly</changefreq><priority>0.85</priority></url>
-  <url><loc>https://a2.prepdele.com/en/support/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://a2.prepdele.com/en/blog/</loc><changefreq>weekly</changefreq><priority>0.85</priority></url>
-  <url><loc>https://a2.prepdele.com/en/blog/what-is-dele-a2/</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
-  <url><loc>https://a2.prepdele.com/en/blog/dele-a2-vs-dele-a2/</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
-  <url><loc>https://a2.prepdele.com/en/blog/pass-dele-a2-in-2-months/</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://a2.prepdele.com/blog/dele-a2-expresion-escrita/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://a2.prepdele.com/blog/dele-a2-expresion-oral/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://a2.prepdele.com/blog/mejores-recursos-dele-a2/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://a2.prepdele.com/support/</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://a2.prepdele.com/privacy/</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://a2.prepdele.com/terms/</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://a2.prepdele.com/en/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
 </urlset>
