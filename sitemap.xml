@@ -1,26 +1,246 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://a2.prepdele.com/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://a2.prepdele.com/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://a2.prepdele.com/en/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://a2.prepdele.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://a2.prepdele.com/de/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://a2.prepdele.com/it/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://a2.prepdele.com/pt/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://a2.prepdele.com/nl/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://a2.prepdele.com/ar/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://a2.prepdele.com/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://a2.prepdele.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://a2.prepdele.com/zh/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://a2.prepdele.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://a2.prepdele.com/pl/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://a2.prepdele.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://a2.prepdele.com/uk/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://a2.prepdele.com/id/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://a2.prepdele.com/vi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://a2.prepdele.com/" />
   </url>
-  <url><loc>https://a2.prepdele.com/modelo-examen/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://a2.prepdele.com/blog/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://a2.prepdele.com/blog/que-es-dele-a2/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://a2.prepdele.com/blog/dele-a2-nacionalidad/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://a2.prepdele.com/blog/aprobar-dele-a2-en-2-meses/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://a2.prepdele.com/blog/errores-comunes-dele-a2/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://a2.prepdele.com/blog/vocabulario-dele-a2/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://a2.prepdele.com/blog/dele-a2-comprension-lectora/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://a2.prepdele.com/blog/dele-a2-comprension-auditiva/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://a2.prepdele.com/blog/dele-a2-expresion-escrita/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://a2.prepdele.com/blog/dele-a2-expresion-oral/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://a2.prepdele.com/blog/mejores-recursos-dele-a2/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://a2.prepdele.com/support/</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://a2.prepdele.com/privacy/</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://a2.prepdele.com/terms/</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://a2.prepdele.com/en/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url>
+    <loc>https://a2.prepdele.com/modelo-examen/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://a2.prepdele.com/modelo-examen/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://a2.prepdele.com/modelo-examen/" />
+  </url>
+  <url>
+    <loc>https://a2.prepdele.com/blog/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://a2.prepdele.com/blog/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://a2.prepdele.com/en/blog/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://a2.prepdele.com/blog/" />
+  </url>
+  <url>
+    <loc>https://a2.prepdele.com/blog/aprobar-dele-a2-en-2-meses/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://a2.prepdele.com/blog/aprobar-dele-a2-en-2-meses/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://a2.prepdele.com/en/blog/aprobar-dele-a2-en-2-meses/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://a2.prepdele.com/fr/blog/aprobar-dele-a2-en-2-meses/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://a2.prepdele.com/de/blog/aprobar-dele-a2-en-2-meses/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://a2.prepdele.com/it/blog/aprobar-dele-a2-en-2-meses/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://a2.prepdele.com/pt/blog/aprobar-dele-a2-en-2-meses/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://a2.prepdele.com/nl/blog/aprobar-dele-a2-en-2-meses/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://a2.prepdele.com/ar/blog/aprobar-dele-a2-en-2-meses/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://a2.prepdele.com/ja/blog/aprobar-dele-a2-en-2-meses/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://a2.prepdele.com/ko/blog/aprobar-dele-a2-en-2-meses/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://a2.prepdele.com/zh/blog/aprobar-dele-a2-en-2-meses/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://a2.prepdele.com/ru/blog/aprobar-dele-a2-en-2-meses/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://a2.prepdele.com/pl/blog/aprobar-dele-a2-en-2-meses/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://a2.prepdele.com/tr/blog/aprobar-dele-a2-en-2-meses/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://a2.prepdele.com/uk/blog/aprobar-dele-a2-en-2-meses/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://a2.prepdele.com/id/blog/aprobar-dele-a2-en-2-meses/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://a2.prepdele.com/vi/blog/aprobar-dele-a2-en-2-meses/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://a2.prepdele.com/blog/aprobar-dele-a2-en-2-meses/" />
+  </url>
+  <url>
+    <loc>https://a2.prepdele.com/blog/dele-a2-comprension-auditiva/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://a2.prepdele.com/blog/dele-a2-comprension-auditiva/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://a2.prepdele.com/en/blog/dele-a2-comprension-auditiva/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://a2.prepdele.com/fr/blog/dele-a2-comprension-auditiva/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://a2.prepdele.com/de/blog/dele-a2-comprension-auditiva/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://a2.prepdele.com/it/blog/dele-a2-comprension-auditiva/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://a2.prepdele.com/pt/blog/dele-a2-comprension-auditiva/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://a2.prepdele.com/nl/blog/dele-a2-comprension-auditiva/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://a2.prepdele.com/ar/blog/dele-a2-comprension-auditiva/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://a2.prepdele.com/ja/blog/dele-a2-comprension-auditiva/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://a2.prepdele.com/ko/blog/dele-a2-comprension-auditiva/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://a2.prepdele.com/zh/blog/dele-a2-comprension-auditiva/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://a2.prepdele.com/ru/blog/dele-a2-comprension-auditiva/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://a2.prepdele.com/pl/blog/dele-a2-comprension-auditiva/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://a2.prepdele.com/tr/blog/dele-a2-comprension-auditiva/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://a2.prepdele.com/uk/blog/dele-a2-comprension-auditiva/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://a2.prepdele.com/id/blog/dele-a2-comprension-auditiva/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://a2.prepdele.com/vi/blog/dele-a2-comprension-auditiva/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://a2.prepdele.com/blog/dele-a2-comprension-auditiva/" />
+  </url>
+  <url>
+    <loc>https://a2.prepdele.com/blog/dele-a2-comprension-lectora/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://a2.prepdele.com/blog/dele-a2-comprension-lectora/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://a2.prepdele.com/en/blog/dele-a2-comprension-lectora/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://a2.prepdele.com/fr/blog/dele-a2-comprension-lectora/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://a2.prepdele.com/de/blog/dele-a2-comprension-lectora/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://a2.prepdele.com/it/blog/dele-a2-comprension-lectora/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://a2.prepdele.com/pt/blog/dele-a2-comprension-lectora/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://a2.prepdele.com/nl/blog/dele-a2-comprension-lectora/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://a2.prepdele.com/ar/blog/dele-a2-comprension-lectora/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://a2.prepdele.com/ja/blog/dele-a2-comprension-lectora/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://a2.prepdele.com/ko/blog/dele-a2-comprension-lectora/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://a2.prepdele.com/zh/blog/dele-a2-comprension-lectora/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://a2.prepdele.com/ru/blog/dele-a2-comprension-lectora/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://a2.prepdele.com/pl/blog/dele-a2-comprension-lectora/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://a2.prepdele.com/tr/blog/dele-a2-comprension-lectora/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://a2.prepdele.com/uk/blog/dele-a2-comprension-lectora/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://a2.prepdele.com/id/blog/dele-a2-comprension-lectora/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://a2.prepdele.com/vi/blog/dele-a2-comprension-lectora/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://a2.prepdele.com/blog/dele-a2-comprension-lectora/" />
+  </url>
+  <url>
+    <loc>https://a2.prepdele.com/blog/dele-a2-expresion-escrita/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://a2.prepdele.com/blog/dele-a2-expresion-escrita/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://a2.prepdele.com/en/blog/dele-a2-expresion-escrita/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://a2.prepdele.com/fr/blog/dele-a2-expresion-escrita/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://a2.prepdele.com/de/blog/dele-a2-expresion-escrita/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://a2.prepdele.com/it/blog/dele-a2-expresion-escrita/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://a2.prepdele.com/pt/blog/dele-a2-expresion-escrita/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://a2.prepdele.com/nl/blog/dele-a2-expresion-escrita/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://a2.prepdele.com/ar/blog/dele-a2-expresion-escrita/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://a2.prepdele.com/ja/blog/dele-a2-expresion-escrita/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://a2.prepdele.com/ko/blog/dele-a2-expresion-escrita/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://a2.prepdele.com/zh/blog/dele-a2-expresion-escrita/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://a2.prepdele.com/ru/blog/dele-a2-expresion-escrita/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://a2.prepdele.com/pl/blog/dele-a2-expresion-escrita/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://a2.prepdele.com/tr/blog/dele-a2-expresion-escrita/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://a2.prepdele.com/uk/blog/dele-a2-expresion-escrita/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://a2.prepdele.com/id/blog/dele-a2-expresion-escrita/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://a2.prepdele.com/vi/blog/dele-a2-expresion-escrita/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://a2.prepdele.com/blog/dele-a2-expresion-escrita/" />
+  </url>
+  <url>
+    <loc>https://a2.prepdele.com/blog/dele-a2-expresion-oral/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://a2.prepdele.com/blog/dele-a2-expresion-oral/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://a2.prepdele.com/en/blog/dele-a2-expresion-oral/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://a2.prepdele.com/fr/blog/dele-a2-expresion-oral/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://a2.prepdele.com/de/blog/dele-a2-expresion-oral/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://a2.prepdele.com/it/blog/dele-a2-expresion-oral/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://a2.prepdele.com/pt/blog/dele-a2-expresion-oral/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://a2.prepdele.com/nl/blog/dele-a2-expresion-oral/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://a2.prepdele.com/ar/blog/dele-a2-expresion-oral/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://a2.prepdele.com/ja/blog/dele-a2-expresion-oral/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://a2.prepdele.com/ko/blog/dele-a2-expresion-oral/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://a2.prepdele.com/zh/blog/dele-a2-expresion-oral/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://a2.prepdele.com/ru/blog/dele-a2-expresion-oral/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://a2.prepdele.com/pl/blog/dele-a2-expresion-oral/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://a2.prepdele.com/tr/blog/dele-a2-expresion-oral/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://a2.prepdele.com/uk/blog/dele-a2-expresion-oral/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://a2.prepdele.com/id/blog/dele-a2-expresion-oral/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://a2.prepdele.com/vi/blog/dele-a2-expresion-oral/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://a2.prepdele.com/blog/dele-a2-expresion-oral/" />
+  </url>
+  <url>
+    <loc>https://a2.prepdele.com/blog/dele-a2-nacionalidad/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://a2.prepdele.com/blog/dele-a2-nacionalidad/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://a2.prepdele.com/en/blog/dele-a2-nacionalidad/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://a2.prepdele.com/fr/blog/dele-a2-nacionalidad/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://a2.prepdele.com/de/blog/dele-a2-nacionalidad/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://a2.prepdele.com/it/blog/dele-a2-nacionalidad/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://a2.prepdele.com/pt/blog/dele-a2-nacionalidad/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://a2.prepdele.com/nl/blog/dele-a2-nacionalidad/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://a2.prepdele.com/ar/blog/dele-a2-nacionalidad/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://a2.prepdele.com/ja/blog/dele-a2-nacionalidad/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://a2.prepdele.com/ko/blog/dele-a2-nacionalidad/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://a2.prepdele.com/zh/blog/dele-a2-nacionalidad/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://a2.prepdele.com/ru/blog/dele-a2-nacionalidad/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://a2.prepdele.com/pl/blog/dele-a2-nacionalidad/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://a2.prepdele.com/tr/blog/dele-a2-nacionalidad/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://a2.prepdele.com/uk/blog/dele-a2-nacionalidad/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://a2.prepdele.com/id/blog/dele-a2-nacionalidad/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://a2.prepdele.com/vi/blog/dele-a2-nacionalidad/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://a2.prepdele.com/blog/dele-a2-nacionalidad/" />
+  </url>
+  <url>
+    <loc>https://a2.prepdele.com/blog/errores-comunes-dele-a2/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://a2.prepdele.com/blog/errores-comunes-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://a2.prepdele.com/en/blog/errores-comunes-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://a2.prepdele.com/fr/blog/errores-comunes-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://a2.prepdele.com/de/blog/errores-comunes-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://a2.prepdele.com/it/blog/errores-comunes-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://a2.prepdele.com/pt/blog/errores-comunes-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://a2.prepdele.com/nl/blog/errores-comunes-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://a2.prepdele.com/ar/blog/errores-comunes-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://a2.prepdele.com/ja/blog/errores-comunes-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://a2.prepdele.com/ko/blog/errores-comunes-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://a2.prepdele.com/zh/blog/errores-comunes-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://a2.prepdele.com/ru/blog/errores-comunes-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://a2.prepdele.com/pl/blog/errores-comunes-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://a2.prepdele.com/tr/blog/errores-comunes-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://a2.prepdele.com/uk/blog/errores-comunes-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://a2.prepdele.com/id/blog/errores-comunes-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://a2.prepdele.com/vi/blog/errores-comunes-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://a2.prepdele.com/blog/errores-comunes-dele-a2/" />
+  </url>
+  <url>
+    <loc>https://a2.prepdele.com/blog/mejores-recursos-dele-a2/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://a2.prepdele.com/blog/mejores-recursos-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://a2.prepdele.com/en/blog/mejores-recursos-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://a2.prepdele.com/fr/blog/mejores-recursos-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://a2.prepdele.com/de/blog/mejores-recursos-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://a2.prepdele.com/it/blog/mejores-recursos-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://a2.prepdele.com/pt/blog/mejores-recursos-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://a2.prepdele.com/nl/blog/mejores-recursos-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://a2.prepdele.com/ar/blog/mejores-recursos-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://a2.prepdele.com/ja/blog/mejores-recursos-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://a2.prepdele.com/ko/blog/mejores-recursos-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://a2.prepdele.com/zh/blog/mejores-recursos-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://a2.prepdele.com/ru/blog/mejores-recursos-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://a2.prepdele.com/pl/blog/mejores-recursos-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://a2.prepdele.com/tr/blog/mejores-recursos-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://a2.prepdele.com/uk/blog/mejores-recursos-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://a2.prepdele.com/id/blog/mejores-recursos-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://a2.prepdele.com/vi/blog/mejores-recursos-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://a2.prepdele.com/blog/mejores-recursos-dele-a2/" />
+  </url>
+  <url>
+    <loc>https://a2.prepdele.com/blog/que-es-dele-a2/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://a2.prepdele.com/blog/que-es-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://a2.prepdele.com/en/blog/que-es-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://a2.prepdele.com/fr/blog/que-es-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://a2.prepdele.com/de/blog/que-es-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://a2.prepdele.com/it/blog/que-es-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://a2.prepdele.com/pt/blog/que-es-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://a2.prepdele.com/nl/blog/que-es-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://a2.prepdele.com/ar/blog/que-es-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://a2.prepdele.com/ja/blog/que-es-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://a2.prepdele.com/ko/blog/que-es-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://a2.prepdele.com/zh/blog/que-es-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://a2.prepdele.com/ru/blog/que-es-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://a2.prepdele.com/pl/blog/que-es-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://a2.prepdele.com/tr/blog/que-es-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://a2.prepdele.com/uk/blog/que-es-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://a2.prepdele.com/id/blog/que-es-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://a2.prepdele.com/vi/blog/que-es-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://a2.prepdele.com/blog/que-es-dele-a2/" />
+  </url>
+  <url>
+    <loc>https://a2.prepdele.com/blog/vocabulario-dele-a2/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://a2.prepdele.com/blog/vocabulario-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://a2.prepdele.com/en/blog/vocabulario-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://a2.prepdele.com/fr/blog/vocabulario-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://a2.prepdele.com/de/blog/vocabulario-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://a2.prepdele.com/it/blog/vocabulario-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://a2.prepdele.com/pt/blog/vocabulario-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://a2.prepdele.com/nl/blog/vocabulario-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://a2.prepdele.com/ar/blog/vocabulario-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://a2.prepdele.com/ja/blog/vocabulario-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://a2.prepdele.com/ko/blog/vocabulario-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://a2.prepdele.com/zh/blog/vocabulario-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://a2.prepdele.com/ru/blog/vocabulario-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://a2.prepdele.com/pl/blog/vocabulario-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://a2.prepdele.com/tr/blog/vocabulario-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://a2.prepdele.com/uk/blog/vocabulario-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://a2.prepdele.com/id/blog/vocabulario-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://a2.prepdele.com/vi/blog/vocabulario-dele-a2/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://a2.prepdele.com/blog/vocabulario-dele-a2/" />
+  </url>
 </urlset>
